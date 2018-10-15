@@ -1,7 +1,7 @@
 var rl = require(`readline-sync`)
 let bank = 500;
 let bet;
-var point = null
+var point = null;
 let playAgain = true
 // let point = roll;
 
